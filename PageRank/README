@@ -1,0 +1,3 @@
+This folder contains the code for PageRank algorithm. You can google it for details, or refer to “Mining of Massive Dataset”.
+“web-Google.txt” is an example dataset. Each pair (i,j) represents that there is a link from i to j.
+You can refer to “test.m” for an example use of the algorithm.
